@@ -2,16 +2,6 @@
 
 [![Open in Cloud Shell](http://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https%3A%2F%2Fgithub.com%2Frscircus%2FIstio101&cloudshell_tutorial=README.md)
 
-# TL;DR - I want to skip setup
-
-Run this:
-
-`make create-cluster deploy-istio build push deploy-stuff`
-
-Run this in another terminal:
-
-`make start-monitoring-services`
-
 ## Cluster Setup
 You need a Kubernetes 1.10 or newer cluster.
 

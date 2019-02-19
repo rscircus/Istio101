@@ -1,6 +1,6 @@
 # Istio and OpenCensus 101 - Lightning Demo
 
-[![Open in Cloud Shell](http://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https%3A%2F%2Fgithub.com%2Frscircus%2FIstio101&cloudshell_tutorial=README.md)
+[![Open in Cloud Shell](http://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https%3A%2F%2Fgithub.com%2Frscircus%2FIstio101)
 
 ## Cluster Setup
 You need a Kubernetes 1.10 or newer cluster.

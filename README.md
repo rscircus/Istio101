@@ -1,4 +1,4 @@
-# Istio and OpenCensus 101 - Lightning Demo
+# Istio 101
 
 [![Open in Cloud Shell](http://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https%3A%2F%2Fgithub.com%2Frscircus%2FIstio101)
 
